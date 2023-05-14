@@ -1,0 +1,121 @@
+https://cdn.intra.42.fr/pdf/pdf/57339/fr.subject.pdf
+
+MAP
+https://stackoverflow.com/questions/14148756/what-does-template-rebind-do
+https://gcc.gnu.org/onlinedocs/gcc-4.6.3/libstdc++/api/a01003_source.html
+https://gcc.gnu.org/onlinedocs/gcc-4.6.3/libstdc++/api/a01067_source.html
+https://gcc.gnu.org/onlinedocs/gcc-4.6.3/libstdc++/api/a01056_source.html#l00538
+https://www.geeksforgeeks.org/red-black-tree-set-3-delete-2/?ref=lbp
+
+NORMAL_ITERATOR
+https://gcc.gnu.org/onlinedocs/gcc-4.6.2/libstdc++/api/a01052_source.html
+https://stackoverflow.com/questions/3582608/how-to-correctly-implement-custom-iterators-and-const-iterators
+https://www.internalpointers.com/post/writing-custom-iterators-modern-cpp
+
+PAIR
+https://cplusplus.com/reference/algorithm/lexicographical_compare/
+https://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.3/a02030.html
+https://en.cppreference.com/w/cpp/utility/pair
+
+LEXICOGRAPHICAL_COMPARE
+https://cplusplus.com/reference/algorithm/lexicographical_compare/
+
+EQUAL
+https://cplusplus.com/reference/algorithm/equal/
+
+IS_INTEGRAL
+https://cplusplus.com/reference/type_traits/true_type/
+https://cplusplus.com/reference/type_traits/false_type/
+https://cplusplus.com/reference/type_traits/integral_constant/
+https://cplusplus.com/reference/type_traits/is_integral/
+
+ENABLE_IF
+https://h-deb.clg.qc.ca/Sujets/TrucsScouts/Comprendre_enable_if.html
+https://h-deb.clg.qc.ca/Sujets/Divers--cplusplus/SFINAE.html
+https://www.youtube.com/watch?v=rtU3oFTblEM&ab_channel=Lepetitcplusplus
+https://en.cppreference.com/w/cpp/types/enable_if
+
+REVERSE_ITERATOR
+https://www.enseignement.polytechnique.fr/informatique/INF478/docs/Cpp/en/cpp/iterator/reverse_iterator.html
+https://cplusplus.com/reference/iterator/reverse_iterator/reverse_iterator/
+https://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-3.4/stl__iterator_8h-source.html#l00090
+https://stackoverflow.com/questions/21275190/c-custom-collection-reverse-iterator-with-similar-behaviour-to-stdvector-imp
+
+ITERATOR_TRAITS
+https://docs.microsoft.com/fr-fr/cpp/standard-library/iterator-traits-struct?view=msvc-170
+https://cplusplus.com/reference/iterator/iterator_traits/
+https://www.codeproject.com/Articles/36530/An-Introduction-to-Iterator-Traits
+https://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-3.4/stl__iterator__base__types_8h-source.html
+
+VECTOR :
+https://docs.microsoft.com/fr-fr/cpp/standard-library/allocators?view=msvc-170
+https://cplusplus.com/reference/vector/vector/
+https://stackoverflow.com/questions/2023977/difference-of-keywords-typename-and-class-in-templates
+https://gcc.gnu.org/onlinedocs/gcc-4.6.3/libstdc++/api/a00739.html
+https://gcc.gnu.org/onlinedocs/gcc-4.6.3/libstdc++/api/a01069_source.html
+https://gcc.gnu.org/onlinedocs/gcc-4.6.2/libstdc++/api/a01069_source.html
+
+
++[146874225] = qqlM2sERpGhcZJAv3qPR | parent : 0x1b05530 | itself : 0x1b06130 | left: 0 | right: 0
++[222264435] = S1BDCdeUHLIVB6I8zaIc | parent : 0x1b04c40 | itself : 0x1b05530 | left: 0x1b06130 | right: 0
++[234863090] = 6xxl5c88m0Rq5CkTPsTU | parent : 0x1b04600 | itself : 0x1b04c40 | left: 0x1b05530 | right: 0
++[236450520] = DPpRIm6G9C5CWSWYLwnt | parent : 0x1b045b0 | itself : 0x1b04600 | left: 0x1b04c40 | right: 0x1b04bf0
++[237067845] = dtBZVLQMx9MBw1eak8SB | parent : 0x1b04bf0 | itself : 0x1b05fb0 | left: 0 | right: 0
++[291506652] = C6KyCaoRm5MncGCjjP0I | parent : 0x1b04600 | itself : 0x1b04bf0 | left: 0x1b05fb0 | right: 0x1b04f30
++[319894070] = HSH0O0igQruyLC1FmQVs | parent : 0x1b055f0 | itself : 0x1b062b0 | left: 0 | right: 0
++[337617424] = OkuQPNHq0AnYY9Pemxpn | parent : 0x1b04f30 | itself : 0x1b055f0 | left: 0x1b062b0 | right: 0
++[413606068] = PuIS5xPbBpGe3MHG7SNm | parent : 0x1b04bf0 | itself : 0x1b04f30 | left: 0x1b055f0 | right: 0x1b04ff0
++[421457758] = B3cqY0IqO2IH2yGMnX7e | parent : 0x1b04ff0 | itself : 0x1b05e30 | left: 0 | right: 0x1b05ef0
++[469131899] = BRcU6oFTAC8IWuiSrTEa | parent : 0x1b05e30 | itself : 0x1b05ef0 | left: 0 | right: 0
++[494683238] = ZY6finqJMbHpB6dKlenn | parent : 0x1b04f30 | itself : 0x1b04ff0 | left: 0x1b05e30 | right: 0
++[550945845] = aDhJUsH7AVnKLfzQGcPC | parent : 0x1b04470 | itself : 0x1b045b0 | left: 0x1b04600 | right: 0x1b047e0
++[565074317] = nuqgXoNhZpL8uMvbDcT7 | parent : 0x1b04880 | itself : 0x1b04e20 | left: 0 | right: 0x1b05bf0
++[585195141] = pDGkqtvKVRReq19BFVwN | parent : 0x1b04e20 | itself : 0x1b05bf0 | left: 0 | right: 0
++[597180312] = hSV7LrNPzTKHS6h7BRW6 | parent : 0x1b047e0 | itself : 0x1b04880 | left: 0x1b04e20 | right: 0x1b04a10
++[650056588] = UFWOX8UzTSzSAGMvGRIC | parent : 0x1b04a60 | itself : 0x1b05170 | left: 0 | right: 0x1b06070
++[656320849] = zM2XVrazn2fXAsRHDc16 | parent : 0x1b05170 | itself : 0x1b06070 | left: 0 | right: 0
++[664683811] = oJTGXtRpq4rz6IBt2Gc2 | parent : 0x1b04a10 | itself : 0x1b04a60 | left: 0x1b05170 | right: 0
++[692158150] = Gs9kLamEeSWqM9ORSlzF | parent : 0x1b04880 | itself : 0x1b04a10 | left: 0x1b04a60 | right: 0
++[708276999] = FiKAXgTFhhPhmRkfXci9 | parent : 0x1b045b0 | itself : 0x1b047e0 | left: 0x1b04880 | right: 0x1b04920
++[734687687] = zOWJPAQLV4wgVGJTC0uV | parent : 0x1b049c0 | itself : 0x1b04dd0 | left: 0 | right: 0x1b056b0
++[760263221] = yH5J2tI4oQzVsPBB226z | parent : 0x1b04dd0 | itself : 0x1b056b0 | left: 0 | right: 0
++[791863565] = ckkK36lt3kBVH1PYvbib | parent : 0x1b04920 | itself : 0x1b049c0 | left: 0x1b04dd0 | right: 0
++[810918777] = 6jjGwGu20C7dXFRgdCU8 | parent : 0x1b047e0 | itself : 0x1b04920 | left: 0x1b049c0 | right: 0x1b04e70
++[819444747] = aafwp6lvuOxv5JkUBUlA | parent : 0x1b04e70 | itself : 0x1b05770 | left: 0 | right: 0x1b064f0
++[884968387] = aTejup4iQw70n78erKEB | parent : 0x1b05770 | itself : 0x1b064f0 | left: 0 | right: 0
++[890902053] = HdCk0Gm8Gn3eqcVYxcYD | parent : 0x1b04920 | itself : 0x1b04e70 | left: 0x1b05770 | right: 0
++[901501096] = CBCId4lUU6oYms60JkNr | parent : 0 | itself : 0x1b04470 | left: 0x1b045b0 | right: 0x1b044c0
++[913335258] = YzIjmI4i4Fum1gzs9QFy | parent : 0x1b046f0 | itself : 0x1b048d0 | left: 0 | right: 0x1b04ce0
++[950685853] = 2ofwuG2e80JGsK8VdB6r | parent : 0x1b048d0 | itself : 0x1b04ce0 | left: 0 | right: 0x1b04d80
++[1064925224] = be5WTfjjKVBU8cezAjH8 | parent : 0x1b04ce0 | itself : 0x1b04d80 | left: 0 | right: 0
++[1126767485] = 5RDlRrY8OFBkqtlD5R33 | parent : 0x1b04650 | itself : 0x1b046f0 | left: 0x1b048d0 | right: 0x1b04790
++[1133069296] = V34DSjjaiDianUKjRFCj | parent : 0x1b04790 | itself : 0x1b052f0 | left: 0 | right: 0x1b05cb0
++[1137360692] = 88UJAeNtrlAwEu4BGiSb | parent : 0x1b052f0 | itself : 0x1b05cb0 | left: 0 | right: 0x1b061f0
++[1187753698] = 4Lru0dOIQpWGYlcx9oyn | parent : 0x1b05cb0 | itself : 0x1b061f0 | left: 0 | right: 0x1b06370
++[1211799450] = mXHcnXiXhKJwJ0BUSpje | parent : 0x1b061f0 | itself : 0x1b06370 | left: 0 | right: 0
++[1236678787] = uUxBDNzk3Tpg1bIow0uf | parent : 0x1b046f0 | itself : 0x1b04790 | left: 0x1b052f0 | right: 0x1b04970
++[1242028092] = 6XSQM096yPnzWqydO7Fl | parent : 0x1b04970 | itself : 0x1b04ab0 | left: 0 | right: 0
++[1248550231] = bej1zTuyCJGa0b4KXgQO | parent : 0x1b04790 | itself : 0x1b04970 | left: 0x1b04ab0 | right: 0
++[1249454836] = aKyxvwuxzUAksmm7s8o3 | parent : 0x1b04510 | itself : 0x1b04650 | left: 0x1b046f0 | right: 0x1b04830
++[1250952682] = RjRwqlQ0hnxYnglid2x3 | parent : 0x1b04830 | itself : 0x1b05830 | left: 0 | right: 0
++[1397500680] = 02Fxrj1KnMufOpH1gbxw | parent : 0x1b04650 | itself : 0x1b04830 | left: 0x1b05830 | right: 0x1b04ba0
++[1441847898] = VJfBTOFj9reLm3iGU2Fs | parent : 0x1b04ba0 | itself : 0x1b050b0 | left: 0 | right: 0
++[1479254855] = i0b4NYygRb7ZuT3HOE61 | parent : 0x1b04830 | itself : 0x1b04ba0 | left: 0x1b050b0 | right: 0x1b04c90
++[1510246189] = 3z82NvciqTwWW2Lp7MET | parent : 0x1b05230 | itself : 0x1b05470 | left: 0 | right: 0x1b058f0
++[1571181998] = 3RBzhOIHFtRtZBHNlCVv | parent : 0x1b05470 | itself : 0x1b058f0 | left: 0 | right: 0
++[1744138074] = cZfcw5yVwFprkH2v3FQO | parent : 0x1b04d30 | itself : 0x1b05230 | left: 0x1b05470 | right: 0x1b053b0
++[1776824073] = j7SHtomH6GvAY8y0nL9E | parent : 0x1b05230 | itself : 0x1b053b0 | left: 0 | right: 0
++[1811056869] = UjhRe94EahPlXuBbIV0q | parent : 0x1b04c90 | itself : 0x1b04d30 | left: 0x1b05230 | right: 0
++[1825225974] = xtZ16NJzNU4IEnzsily8 | parent : 0x1b04ba0 | itself : 0x1b04c90 | left: 0x1b04d30 | right: 0
++[1826402029] = TPcK94z2htaoK5hWpR1j | parent : 0x1b044c0 | itself : 0x1b04510 | left: 0x1b04650 | right: 0x1b046a0
++[1838705046] = d8NpBFRFI87WxlYiRzJB | parent : 0x1b04510 | itself : 0x1b046a0 | left: 0 | right: 0x1b04740
++[1913591762] = W4dsiGdNWranxT1qbPt9 | parent : 0x1b046a0 | itself : 0x1b04740 | left: 0 | right: 0x1b06430
++[1922441385] = sXhbSe7MQHhvJ9XQcrrX | parent : 0x1b04740 | itself : 0x1b06430 | left: 0 | right: 0
++[1973460476] = V5sbXjlqYRAV1C1LgJbt | parent : 0x1b04470 | itself : 0x1b044c0 | left: 0x1b04510 | right: 0x1b04560
++[1977188340] = Kw91n77jigS09IQEYFw0 | parent : 0x1b04560 | itself : 0x1b04b00 | left: 0 | right: 0x1b04b50
++[1983746265] = K0Qj3EOV96U6xbBDMkaP | parent : 0x1b04b00 | itself : 0x1b04b50 | left: 0 | right: 0x1b059b0
++[2042816248] = 6KhIc7LvaTTwklmmbjBO | parent : 0x1b059b0 | itself : 0x1b05a70 | left: 0 | right: 0
++[2067994978] = lttYCjRWSXYKeyIgvpJv | parent : 0x1b04b50 | itself : 0x1b059b0 | left: 0x1b05a70 | right: 0
++[2077092568] = WA1JMsjadjyjQjJLxVkE | parent : 0x1b044c0 | itself : 0x1b04560 | left: 0x1b04b00 | right: 0x1b05d70
++[2093044840] = eFN5bxsWa4dAnvZdzToE | parent : 0x1b04560 | itself : 0x1b05d70 | left: 0 | right: 0x1b065b0
++[2102701503] = 1IRLC9sfQI5AzDYeotLd | parent : 0x1b05d70 | itself : 0x1b065b0 | left: 0 | right: 0x1b04420
